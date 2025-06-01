@@ -14,7 +14,7 @@ This setup lets you create a single, easy-to-deploy binary that contains both yo
 
 ## Requirements
 
-- Go 1.22+
+- Go 1.23+
 - pnpm (optional, you can replace `pnpm` with `npm` or `yarn` in the Makefile)
 
 ## Try it out
